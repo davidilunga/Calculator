@@ -15,13 +15,13 @@ Tkinter library, which is included with most Python installations.
 ### Running the Calculator
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/calculator-tkinter.git
+git clone https://github.com/davidilunga/Calculator.git
 Navigate to the project directory:
 
-cd calculator-tkinter
+cd Calculator
 Run the calculator script:
 
-python calculator.py
+python Calculator.py
 
 ## Usage
 Enter numeric values using the digit buttons (0-9).
